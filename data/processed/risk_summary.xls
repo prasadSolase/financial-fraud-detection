@@ -1,0 +1,4 @@
+Risk_Level,Transaction_Count,Average_Fraud_Probability
+High,2870,0.3368
+Medium,16359,0.2055
+Low,1030,0.0797
