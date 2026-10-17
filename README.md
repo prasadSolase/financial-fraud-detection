@@ -43,6 +43,3 @@ The dashboard provides insights into:
 B.E. Artificial Intelligence and Machine Learning
 
 GitHub: https://github.com/prasadSolase/financial-fraud-detection
-
-## Disclaimer
-This project is intended for educational purposes. Model predictions are estimates and do not establish that a transaction is fraudulent.
